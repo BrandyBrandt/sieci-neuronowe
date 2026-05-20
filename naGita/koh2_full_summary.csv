@@ -1,0 +1,9 @@
+zbior,topologia,sasiedztwo,siatka,epoki,sigma,alpha0,lambda,seed,blad_kwantyzacji,klasy_rzeczywiste,klastry_na_mapie,zgodna_liczba_klastrow,aktywne_neurony,neurony_jednoklasowe,wszystkie_neurony_jednoklasowe,srednia_czystosc,min_czystosc
+mnist,rectangular,gaussian,12x8,10,0.9,0.3,450000.0,42,19.5102,10,19,False,96,0,False,0.662652,0.238866
+mnist,hexagonal,gaussian,12x8,10,0.9,0.3,450000.0,42,19.512787,10,16,False,96,0,False,0.711813,0.25
+mnist,rectangular,mexican_hat,10x10,10,0.5,0.05,450000.0,42,21.115123,10,14,False,14,3,False,0.645465,0.268892
+mnist,hexagonal,mexican_hat,10x10,10,0.9,0.08,450000.0,42,22.928637,10,4,False,4,0,False,0.372856,0.170645
+har,rectangular,gaussian,8x8,12,0.9,0.32,75000.0,42,13.655632,6,8,False,63,4,False,0.759919,0.411392
+har,hexagonal,gaussian,7x7,12,0.9,0.32,75000.0,42,13.877184,6,10,False,49,2,False,0.739272,0.446154
+har,rectangular,mexican_hat,6x6,12,1.1,0.03,75000.0,42,15.127975,6,4,False,5,0,False,0.486648,0.419777
+har,hexagonal,mexican_hat,7x7,12,0.7,0.05,75000.0,42,14.939464,6,6,True,6,0,False,0.591851,0.444904
